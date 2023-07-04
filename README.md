@@ -42,9 +42,9 @@ const ceci = {
 
 I am a Full-stack Web Developer and designer -  <h3>👯 I love FREE stuff</h3>
  
-🔭 I’m planning for a Project **Angular**.
+🔭 I’m planning for a Project **Liquid**.
  
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python - Ruby - Liquid Shopify and prompt engineering en OpenAI 
  
 
 ---
